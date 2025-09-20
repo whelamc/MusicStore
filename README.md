@@ -1,4 +1,4 @@
-# MusicStore
+# MusicStore（免费mp3外链）
 
 This repository is used for storing and sharing MP3 music files.
 It serves as a simple archive where music can be uploaded, organized, and accessed.
